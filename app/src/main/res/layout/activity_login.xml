@@ -45,4 +45,10 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="40dp"
         android:text="Entrar" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ic_launcher_background" />
 </RelativeLayout>
